@@ -1,4 +1,3 @@
-
 var mydiv = document.createElement('div'); 
 mydiv.style.height = '50px';
 mydiv.style.width = 'fit-content';
